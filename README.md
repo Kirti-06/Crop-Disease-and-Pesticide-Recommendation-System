@@ -1,7 +1,7 @@
 # Crop Disease Detection and Pesticide Recommendation System 
 A Crop Disease and Pesticide Recommendation System is a decision-support tool that assists farmers in identifying crop diseases and making recommendations for the most effective pesticides. It analyzes data on crop health, environmental conditions, and insect resistance to optimize pesticide application, increase productivity, and enhance sustainable agriculture while minimizing chemical effect on the environment.!
 
-[Crop_Block](https://github.com/user-attachments/assets/bb222941-9e21-4c8f-a17e-91ebcf336caa)
+(https://github.com/user-attachments/assets/bb222941-9e21-4c8f-a17e-91ebcf336caa)
 
 The methodology for "Crop Disease and Pest Detection Using CNN" is a multi-step process. Firstly, a comprehensive dataset of images containing healthy crops and crops affected by diseases and pests is collected. 
 
