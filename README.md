@@ -12,9 +12,7 @@ The model learns to recognize patterns and features that distinguish healthy cro
 Finally, the trained CNN model is utilized to classify and detect crop diseases and pests accurately. This approach can greatly assist farmers in early identification and effective management of crop health.!
 
 ![4](https://github.com/user-attachments/assets/b3d5c95d-d852-4664-b0de-613c7933f15c)
-![3](https://github.com/user-attachments/assets/7a182b31-bcfa-4add-8d50-0b9f176e73e9)
-![2](https://github.com/user-attachments/assets/1e3693a9-9f43-46ec-b42f-8014ef6ecb20)
-![1](https://github.com/user-attachments/assets/e3b6c732-18af-4350-a70d-aed44286459f)
+
 
 
 
